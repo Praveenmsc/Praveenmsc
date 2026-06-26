@@ -1,147 +1,166 @@
+<div align="center">
 
-<h1 align="center">Hi there, I'm Praveen M 👋</h1>
-<h3 align="center">M.Sc. Software Systems Student | MERN Stack Developer | UI/UX (Figma) Enthusiast</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9FF&height=200&section=header&text=Praveen%20M&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=Software%20Developer%20|%20MERN%20Stack%20Engineer%20|%20Problem%20Solver&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/praveenm-5a3648342" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:praveenp03644@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Praveenmsc" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<br>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Praveenmsc&style=for-the-badge&color=blueviolet" alt="profile views" />
-</p>
+```
+Full Stack Developer  |  MERN Stack  |  UI/UX (Figma)
+```
 
----
+<br>
 
-### 🚀 About Me
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-praveenm--5a3648342-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praveenm-5a3648342)
+[![GitHub](https://img.shields.io/badge/GITHUB-Praveenmsc-0D1B2A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Praveenmsc)
+[![Email](https://img.shields.io/badge/EMAIL-praveenp03644@gmail.com-1565C0?style=for-the-badge&logo=gmail&logoColor=white)](mailto:praveenp03644@gmail.com)
+[![Phone](https://img.shields.io/badge/PHONE-+91%209566809367-003B73?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919566809367)
 
-- 🎓 Currently pursuing **M.Sc. Software Systems** at **Kongu Engineering College** (CGPA: 7.49)
-- 💻 Building real-world projects using the **MERN Stack** (MongoDB, Express.js, React.js, Node.js)
-- 🎨 Exploring **UI/UX Design** with **Figma**
-- 🔐 Passionate about **security-focused tooling** and clean, scalable web apps
-- 🌱 Currently sharpening my skills in **Generative AI** (OpenAI API, Hugging Face)
-- 🏆 Competitive hackathon participant — 2x 2nd place finisher
-- 📫 Reach me at **praveenp03644@gmail.com**
-- 📍 Based in Erode, Tamil Nadu, India
+<br>
 
----
+<img src="https://komarev.com/ghpvc/?username=Praveenmsc&style=for-the-badge&color=0D6EFD&label=PROFILE+VIEWS" />
 
-### 🛠️ Tech Stack & Skills
+</div>
 
-**Languages**
-<p>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-</p>
+<br>
 
-**Web Technologies**
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-</p>
+## 🧑‍💻 About Me
 
-**Databases**
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-</p>
+> M.Sc. Software Systems student with strong programming knowledge in **C, C++, Java, and Python**, currently building full-stack projects on the **MERN stack** and exploring **UI/UX design with Figma**. Focused on writing clean, secure, and scalable code through hands-on development and competitive hackathons.
 
-**Generative AI & Tools**
-<p>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-</p>
+- 🎓 Pursuing **M.Sc. Software Systems** at Kongu Engineering College — CGPA **7.49**
+- 🛠️ Building with the **MERN Stack** (MongoDB, Express.js, React.js, Node.js)
+- 🔐 Interested in **developer security tooling** and clean architecture
+- 🤖 Exploring **Generative AI** — OpenAI API, Hugging Face
+- 🏆 **2× Hackathon Runner-Up** — Hackwave 2.0 & Hackwave 3.0.1
+- 📍 Erode, Tamil Nadu, India
 
----
+<br>
 
-### 🏗️ Featured Projects
+## 🧰 Tech Stack
 
-#### 🔹 [Heritage Quest](https://github.com/Praveenmsc)
-A mentorship and peer-collaboration platform that helps college students connect with mentors and like-minded learners across domains such as frontend development and data science.
+<div align="center">
 
-#### 🔹 [Repo Guardian](https://github.com/Praveenmsc)
+### Languages
+<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-1E5288?style=flat-square&logo=python&logoColor=white"/>
+
+### Web Technologies
+<img src="https://img.shields.io/badge/HTML5-1572B6?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-0B5394?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-0D47A1?style=flat-square&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-1A4E8A?style=flat-square&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-0B5394?style=flat-square&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-053759?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-022B4D?style=flat-square&logo=express&logoColor=white"/>
+
+### Database
+<img src="https://img.shields.io/badge/MongoDB-0A3D62?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-1A3C6E?style=flat-square&logo=mysql&logoColor=white"/>
+
+### AI & Tools
+<img src="https://img.shields.io/badge/OpenAI-0B3D91?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/HuggingFace-103A5E?style=flat-square&logo=huggingface&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-0747A6?style=flat-square&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-08306B?style=flat-square&logo=git&logoColor=white"/>
+
+</div>
+
+<br>
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔹 Heritage Quest
+A mentorship and peer-collaboration platform connecting college students with mentors and like-minded learners across domains such as frontend development and data science.
+
+`React` `Node.js` `MongoDB`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔹 Repo Guardian
 A security-focused tool that detects and protects exposed GitHub secret keys and sensitive credentials by securely hiding and managing them within repositories.
 
-#### 🔹 Car Accident Detector
-A real-time crash detection system that sends immediate alerts to help emergency responders react faster and save lives.
+`Security` `GitHub API` `Node.js`
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### 🏆 Achievements & Activities
+### 🔹 Car Accident Detector
+Detects vehicle crashes in real time and sends immediate alerts to help emergency teams respond faster and save lives.
 
-| Category | Details |
-|---|---|
-| 🥈 Hackathons | 2nd Place — **Hackwave 2.0**, Kongu Engineering College |
-| 🥈 Hackathons | 2nd Place — **Hackwave 3.0.1 [Dev Stage Alpha]** |
-| 💡 Project Expo | **Proof of Concept 2K25** — Social Skills Development for ASD & ID Children Using VR |
-| 💡 Project Expo | **Ideathon 2K25** — Autonomous Water Surface Cleaning Robot |
-| 💡 Project Expo | **SIH 2K25** — Image-Based Breed Recognition |
-| 📄 Paper Presentation | **Car Accident Detector** — Real-time crash detection & emergency alert system |
+`Computer Vision` `Real-time Alerts`
 
----
+</td>
+<td width="50%" valign="top">
 
-### 🎓 Education
+&nbsp;
 
-| Degree / Course | Institution | Score | Year |
-|---|---|---|---|
-| M.Sc. Software Systems | Kongu Engineering College, Perundurai | CGPA 7.49 (upto 5th sem) | 2023 – 2028 |
+</td>
+</tr>
+</table>
+
+<br>
+
+## 🏆 Achievements & Activities
+
+| Type | Title | Details |
+|:---:|---|---|
+| 🥈 | **Hackwave 2.0** | 2nd Place — Kongu Engineering College |
+| 🥈 | **Hackwave 3.0.1 (Dev Stage Alpha)** | 2nd Place — Kongu Engineering College |
+| 💡 | **Proof of Concept 2K25** | Social Skills Development for ASD & ID Children Using VR |
+| 💡 | **Ideathon 2K25** | Autonomous Water Surface Cleaning Robot |
+| 💡 | **SIH 2K25** | Image-Based Breed Recognition |
+| 📄 | **Paper Presentation** | Car Accident Detector — real-time crash detection system |
+
+<br>
+
+## 🎓 Education
+
+| Degree | Institution | Score | Year |
+|---|---|:---:|:---:|
+| M.Sc. Software Systems | Kongu Engineering College, Perundurai | CGPA 7.49 | 2023 – 2028 |
 | Class 12 (HSC) | Kongu National Matric Hr Sec School, Erode | 69.9% | 2022 – 2023 |
 | Class 10 (SSLC) | Kongu National Matric Hr Sec School, Erode | — | 2020 – 2021 |
 
----
+<br>
 
-### 📜 Certifications
+## 📜 Certifications
 
-- ✅ Web Development
-- ✅ C Programming (Intermediate)
-- ✅ Data Structures using Java
-- ✅ Nasscom Certification
-- ✅ Java Foundations (1Z0-811)
+<div align="center">
 
----
+![](https://img.shields.io/badge/✓-Web%20Development-0D47A1?style=flat-square)
+![](https://img.shields.io/badge/✓-C%20(Intermediate)-0D47A1?style=flat-square)
+![](https://img.shields.io/badge/✓-Data%20Structures%20using%20Java-0D47A1?style=flat-square)
+![](https://img.shields.io/badge/✓-Nasscom-0D47A1?style=flat-square)
+![](https://img.shields.io/badge/✓-Java%20Foundations%20(1Z0--811)-0D47A1?style=flat-square)
 
-### 🤝 Soft Skills
+</div>
 
-`Communication` • `Teamwork` • `Quick Learner` • `Problem-Solving` • `Adaptability` • `Team Collaboration`
+<br>
 
----
+## 📊 GitHub Stats
 
-### 📊 GitHub Stats
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Praveenmsc&show_icons=true&theme=tokyonight&hide_border=true" alt="Praveen's GitHub stats" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Praveenmsc&show_icons=true&theme=tokyonight&hide_border=true&title_color=4FC3F7&icon_color=4FC3F7&text_color=ffffff&bg_color=0D1B2A" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Praveenmsc&theme=tokyonight&hide_border=true&ring=4FC3F7&fire=4FC3F7&currStreakLabel=4FC3F7&background=0D1B2A" width="49%"/>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Praveenmsc&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenmsc&layout=compact&theme=tokyonight&hide_border=true&title_color=4FC3F7&text_color=ffffff&bg_color=0D1B2A" width="60%"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenmsc&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
+</div>
 
----
+<br>
 
-<p align="center">
-  <i>💬 "Currently building, breaking, and learning — one MERN project at a time."</i>
-</p>
+<div align="center">
 
-<p align="center">
-  ⭐️ From <a href="https://github.com/Praveenmsc">Praveenmsc</a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:2C5364,100:0F2027&height=100&section=footer" width="100%"/>
+
+</div>
